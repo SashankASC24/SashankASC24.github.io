@@ -9,8 +9,11 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 5px;
 }
 
 .Home {
-    border: 5px, solid, red;
+    padding-left: 10px;
+    border: 5px, solid, rgb(5, 35, 59);
+    background-color: rgb(120, 192, 240);
 }
