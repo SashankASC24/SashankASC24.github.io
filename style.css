@@ -31,7 +31,8 @@ nav {
 }
 
 img {
-    border-radius: 25px;
+    border: 3px, solid, white;
+    border-radius: 100px;
     align-self: flex-end;
     align-self: center;
     width: 300px;
