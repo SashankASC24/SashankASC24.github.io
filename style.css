@@ -33,6 +33,11 @@ img {
     align-self: flex-end;
     align-self: center;
     width: 300px;
-    padding: 100px;
+    padding: 50px;
 }
 
+#caption {
+    padding-top: 0px;
+    align-self: center;
+    font-size: 40px;
+}
