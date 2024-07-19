@@ -11,3 +11,6 @@ nav {
     align-items: center;
 }
 
+.Home {
+    border: 5px, solid, red;
+}
