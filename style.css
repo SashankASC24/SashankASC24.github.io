@@ -31,18 +31,19 @@ nav {
 }
 
 img {
-    border: 3px, solid, white;
+    border: 5px, solid, white;
     border-radius: 100px;
     align-self: flex-end;
     align-self: center;
     width: 300px;
-    padding: 50px;
+    margin: 50px;
 }
 
 #caption {
     padding-top: 0px;
     align-self: center;
     font-size: 40px;
+    padding-bottom: 100px;
 }
 
 .nav:hover {
