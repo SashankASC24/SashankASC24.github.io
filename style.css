@@ -10,7 +10,6 @@ nav {
     justify-content: space-around;
     align-items: center;
     padding: 5px;
-    text-decoration: none;
 }
 
 .Home {
@@ -45,4 +44,9 @@ img {
 
 .nav:hover {
     background-color: gray;
+}
+
+a {
+    color:white;
+    text-decoration: none;
 }
