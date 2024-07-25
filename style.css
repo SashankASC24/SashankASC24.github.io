@@ -8,8 +8,8 @@ nav {
     background-color: black;
     color: white;
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: space-around
+    flex-direction: column;
     padding: 5px;
 }
 
@@ -26,8 +26,9 @@ nav {
 }
 
 #info {
+    color:rgb(255, 255, 255);
     padding-left: 50px;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 img {
