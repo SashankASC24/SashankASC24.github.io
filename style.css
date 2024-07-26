@@ -55,3 +55,33 @@ a {
     color:white;
     text-decoration: none;
 }
+
+#infoam {
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+#dulles {
+    width: 400px;
+}
+
+.aboutme {
+        display:flex;
+        padding-left: 50px;
+        border: 5px, solid, rgb(5, 35, 59);
+        background-color: rgb(120, 192, 240);
+}
+
+#dlink {
+    color: rgb(9, 255, 0);
+    font-weight: bold;
+    font-size: 30px;
+    display: flex;
+    align-self: center;
+    margin-right: 100px;
+}
+
+#dlink:hover {
+    background-color: rgb(128, 80, 66);
+    opacity: 0.5;
+}
